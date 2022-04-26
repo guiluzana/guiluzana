@@ -1,5 +1,5 @@
 
-### Guilherme Luzana🏆
+### Guilherme Luzana☢️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-luzana-960ba41b3/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/anakinreidelas) 
