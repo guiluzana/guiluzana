@@ -18,4 +18,4 @@
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
-## Cursando Engenharia de Software 5/8
+## Cursando Engenharia de Software 6/8
